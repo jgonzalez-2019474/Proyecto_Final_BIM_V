@@ -1,3 +1,15 @@
+/*
+Fundación Kinal
+Centro Educativo Técnico Labral Kinal
+Electrónica
+Grado: Quinto
+Sección: A
+Curso: Taller de Electrónica Digital y Reparación de Computadoras I
+Nombre: Javier Andre Gonzalez Barrera
+Carné: 2019474
+*/
+
+
 //librerias
 #include <SoftwareSerial.h>
 
